@@ -1,0 +1,10 @@
+github.com/diamondburned/gotk4/pkg v0.0.0-20210919215506-2625db339437 h1:Q6tsmayFJOR90pGkzroooKyfaE7o19/1zTizYKEm36M=
+github.com/diamondburned/gotk4/pkg v0.0.0-20210919215506-2625db339437/go.mod h1:dJ2gfR0gvBsGg4IteP8aMBq/U5Q9boDw0DP7kAjXTwM=
+github.com/gtkool4/grun v0.0.0-20210920192350-bbfdfe66023b h1:1oqUtt/7NxmNWtF3cbWQbqdgO+6gasK7HRD2zacaMcs=
+github.com/gtkool4/grun v0.0.0-20210920192350-bbfdfe66023b/go.mod h1:E6JbMVkbHolzHandxDCKxMOHrvv/8BaEGt1pmtaDoEI=
+github.com/gtkool4/gtkelp v0.0.0-20210920220201-30b76df429e2 h1:h0kvyi9xCfT2omeS8zY0CphPEcot4+wN7/bKgVPSbak=
+github.com/gtkool4/gtkelp v0.0.0-20210920220201-30b76df429e2/go.mod h1:uKQO5FRnuYjCeeNKdY0C8saD5ms0fmaZE48/UJ+qh9Q=
+go4.org/unsafe/assume-no-moving-gc v0.0.0-20201222180813-1025295fd063 h1:1tk03FUNpulq2cuWpXZWj649rwJpk0d20rxWiopKRmc=
+go4.org/unsafe/assume-no-moving-gc v0.0.0-20201222180813-1025295fd063/go.mod h1:FftLjUGFEDu5k8lt0ddY+HcrH/qU/0qk+H8j9/nTl3E=
+golang.org/x/sync v0.0.0-20210220032951-036812b2e83c h1:5KslGYwFpkhGh+Q16bwMP3cOontH8FOep7tGV86Y7SQ=
+golang.org/x/sync v0.0.0-20210220032951-036812b2e83c/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
